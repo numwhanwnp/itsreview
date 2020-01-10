@@ -1,0 +1,12 @@
+.product {
+    width: 150px;
+    height: 150px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+
+img {
+    width: auto;
+    height: 100px;
+}
